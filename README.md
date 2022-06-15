@@ -1,2 +1,2 @@
-# Exercises-python
+# Exercises
 Alguns exercicios resolvidos
