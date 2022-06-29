@@ -1,2 +1,2 @@
 # Exercises
-Alguns exercicios resolvidos
+solved exercises
